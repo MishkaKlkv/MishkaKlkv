@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MishkaKlkv/MishkaKlkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi there 👋
+
+I am fullstack developer, currently working at JSC NIIAS
+
+My education: Master's Degree in Informatics and Computer Engineering
+
+## My tech stack
+
+![](https://img.shields.io/badge/Angular-F7DF1E?style=for-the-badge&logo=angular&logoColor=black)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
