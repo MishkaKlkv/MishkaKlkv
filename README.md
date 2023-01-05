@@ -20,6 +20,8 @@ My education: Master's Degree in Informatics and Computer Engineering
 
 In my free time I go through various lessons at https://hexlet.io/
 
+In the near future I plan to move from fullstack to frontend developing only
+
 ## My tech stack
 
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
