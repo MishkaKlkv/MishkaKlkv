@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋
 
-I am fullstack developer, currently working at JSC NIIAS
+I am fullstack developer, currently working at Russian Railways 🚂
 
 My education: Master's Degree in Informatics and Computer Engineering
 
