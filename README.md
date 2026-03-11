@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 I am fullstack developer, currently working at Russian Railways 🚂
 
 My education: Master's Degree in Informatics and Computer Engineering
-
-In my free time I go through various lessons at https://hexlet.io/
-
 ## My tech stack
 
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
